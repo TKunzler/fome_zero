@@ -38,7 +38,7 @@ st.markdown(page_bg_color, unsafe_allow_html=True)
 
 
 
-image = Image.open('Logo.png')
+image = Image.open('logo.png')
 st.sidebar.image( image, use_column_width=True)
 
 st.sidebar.markdown('# Fome Zero!')

@@ -3,7 +3,6 @@ import pandas as pd
 import datetime
 import numpy as np
 from PIL import Image
-import inflection
 from haversine import haversine
 
 import plotly.express as px

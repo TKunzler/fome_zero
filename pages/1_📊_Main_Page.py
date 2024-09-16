@@ -1,5 +1,3 @@
-!pip install inflection
-
 # Bibliotecas
 import pandas as pd
 import datetime

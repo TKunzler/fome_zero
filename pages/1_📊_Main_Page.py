@@ -1,4 +1,4 @@
-pip install inflection
+!pip install inflection
 
 # Bibliotecas
 import pandas as pd

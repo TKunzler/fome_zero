@@ -4,6 +4,7 @@ import datetime
 import numpy as np
 from PIL import Image
 from haversine import haversine
+import inflection
 
 import plotly.express as px
 import plotly.graph_objects as go

@@ -1,4 +1,4 @@
-![Capa](capa.png)
+![Capa](capa.jpg)
 
 ## 1. Problema de negócio
 A Fome Zero é um marketplace especializado em restaurantes, com o objetivo principal de facilitar a conexão e as negociações entre clientes e estabelecimentos. Na plataforma da Fome Zero, os restaurantes se cadastram e fornecem informações detalhadas, como endereço, tipo de culinária oferecida, disponibilidade para reservas, opções de entrega e avaliações de serviços e produtos, entre outros dados.
